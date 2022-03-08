@@ -1,7 +1,7 @@
 {
-  "token": "YOUR_DISCORD_TOKEN",
-  "prefix": "!",
-  "owner_id": "YOUR_USER_ID",
+  "token": "OTUwNTczMDk4ODY2OTk1MjMz.Yia4Lw.6fHD6yFqus_JD6kBd_RZork43gg",
+  "prefix": "brk",
+  "owner_id": "743767134919852073",
   "owner_reporting": false,
   "presence_refresh_interval": 900000
 }
